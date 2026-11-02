@@ -1,1 +1,1 @@
-# -java-revision
+# java-revision
